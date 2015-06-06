@@ -1,0 +1,15 @@
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.abstractions.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.execution.desktop.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\Test02.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\Test02.pdb
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.assert.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.core.dll
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.assert.pdb
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.assert.xml
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.core.pdb
+C:\Work\Claim\Test2-NET041815\Test02\bin\Debug\xunit.core.xml
+C:\Work\Claim\Test2-NET041815\Test02\obj\Debug\Test02.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Test2-NET041815\Test02\obj\Debug\Test02.dll
+C:\Work\Claim\Test2-NET041815\Test02\obj\Debug\Test02.pdb
